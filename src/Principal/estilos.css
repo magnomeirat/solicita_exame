@@ -1,0 +1,54 @@
+header{    
+    border-color: #125658;
+    border-style: solid;
+    border-width: 1px;
+    align-items: center;
+    margin: 15px;
+}
+
+#solicitar{
+    display: flex;
+    flex-direction: row;
+}
+input{
+    padding: 15px;
+    font-size: 25px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: steelblue solid 1px;
+    color: steelblue;
+    border-radius: 10px;
+    min-width: 600px;
+}
+
+button{
+    padding: 18px;
+    background-color: steelblue;
+    margin-left: 5px;
+    font-size: 25px;
+    font-weight:bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: steelblue solid 1px;
+    color:ivory;
+    border-radius: 10px;
+    
+}
+
+
+ul{
+    align-content: flex-;
+}
+
+li{
+    list-style: none;
+    font-size: 25px;
+    font-weight: bold;
+    color:cornflowerblue;
+    margin-top: 3px;
+    align-content: flex-start;
+}
+
+textarea{
+    border: 1px solid #125658;
+
+}
